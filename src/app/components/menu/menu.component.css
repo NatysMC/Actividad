@@ -1,0 +1,18 @@
+.card-img-top{
+    width: 550px;
+    height: 300px;
+}
+.imagen{
+    width: 1230px;
+    height: 400px;
+}
+.display-3{
+    font-family: 'Birthstone', cursive;
+    text-align: center;
+}
+.contengo{
+    background-color: rgb(255, 173, 80);
+}
+.texto{
+    font-family: 'Josefin Sans', sans-serif;
+}

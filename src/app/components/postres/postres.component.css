@@ -1,0 +1,19 @@
+.video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    } 
+
+.contengo{
+    background-color: rgb(245, 136, 97);
+}
+
+.texto{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.display-2{
+    font-family: 'Birthstone', cursive;
+    text-align: center;
+}
